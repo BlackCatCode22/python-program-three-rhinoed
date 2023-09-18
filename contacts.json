@@ -17,7 +17,7 @@
         "first_name": "Luke",
         "last_name": "Skywalker",
         "full_name": "Luke Skywalker",
-        "phone_number": "222-222-2222",
+        "phone_number": "3333333333",
         "email_address": "moistureFarmingSucks@tatooine.com"
     },
     {
@@ -26,5 +26,12 @@
         "full_name": "Han Solo",
         "phone_number": "333-333-3333",
         "email_address": "bountyWhatBounty@falcon.com"
+    },
+    {
+        "first_name": "Anakin",
+        "last_name": "Skywalker",
+        "full_name": "Anakin Skywalker",
+        "phone_number": "888-8888",
+        "email_address": "sandIsRough@forceGhost.com"
     }
 ]

@@ -72,10 +72,10 @@ def create_contact():
     phone_is_unique = search_contact(phone_number)
     email_is_unique = search_contact(email_address)
     # Create a dictionary for the contact
-    if phone_is_unique is not None:
+    if phone_is_unique != -1:
         print("A contact with that phone number already exists")
         return None
-    if email_is_unique is not None:
+    if email_is_unique != -1:
         print("A contact with that email address already exists")
         return None
     else:
@@ -156,10 +156,6 @@ def search_contact(search=None):
             menu.status_message = "No results found"
             i += 1
     return -1
-
-
-
-
 
 
 # update a contact
