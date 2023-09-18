@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Obi wan",
+        "last_name": "Kenobi",
+        "full_name": "Obi wan Kenobi",
+        "phone_number": "111-111-1111",
+        "email_address": "kmasterB@tatooine.com"
+    },
+    {
+        "first_name": "Leia",
+        "last_name": "Organa",
+        "full_name": "Leia Organa",
+        "phone_number": "444-4444-4444",
+        "email_address": "blastinPrincess1@alderon.com"
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Skywalker",
+        "full_name": "Luke Skywalker",
+        "phone_number": "222-222-2222",
+        "email_address": "moistureFarmingSucks@tatooine.com"
+    },
+    {
+        "first_name": "Han",
+        "last_name": "Solo",
+        "full_name": "Han Solo",
+        "phone_number": "333-333-3333",
+        "email_address": "bountyWhatBounty@falcon.com"
+    }
+]
