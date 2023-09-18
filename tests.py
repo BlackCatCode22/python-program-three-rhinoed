@@ -5,14 +5,14 @@
 #
 from faker import Faker
 import input_vailidator as check
-
+# initialize faker
+fake = Faker()
 # test data
 emails = []
 phone_numbers = []
 names = []
 # data generation
 for i in range(10):
-    fake = Faker()
     names.append(fake.first_name())
     emails.append(fake.email())
     phone_numbers.append(fake.phone_number())
