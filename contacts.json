@@ -21,6 +21,13 @@
         "email_address": "moistureFarmingSucks@tatooine.com"
     },
     {
+        "first_name": "Anakin",
+        "last_name": "Skywalker",
+        "full_name": "Anakin Skywalker",
+        "phone_number": "888-8888",
+        "email_address": "sandIsRough@forceGhost.com"
+    },
+    {
         "first_name": "Han",
         "last_name": "Solo",
         "full_name": "Han Solo",
@@ -28,10 +35,10 @@
         "email_address": "bountyWhatBounty@falcon.com"
     },
     {
-        "first_name": "Anakin",
-        "last_name": "Skywalker",
-        "full_name": "Anakin Skywalker",
-        "phone_number": "888-8888",
-        "email_address": "sandIsRough@forceGhost.com"
+        "first_name": "Jar jar",
+        "last_name": "Binks",
+        "full_name": "Jar jar Binks",
+        "phone_number": "012-023-0456",
+        "email_address": "meesaAmsteak@naboo.gov"
     }
 ]
