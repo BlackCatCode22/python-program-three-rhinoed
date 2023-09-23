@@ -126,4 +126,4 @@ But I did my best to test the program and fix any errors I found. I did try my h
 I did this by using pytest to test some of the input validation functions.  And it helped me identify some cases I had not considered.
 
 #### Conclusion
-In the end I'm happy with the program. There numerous thing which could be imported and I may continue to work on this if time allows.
+In the end I'm happy with the program.However, there are numerous things which could be improved and I may continue to work on this if time allows.
